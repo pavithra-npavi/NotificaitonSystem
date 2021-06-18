@@ -1,0 +1,33 @@
+.mainContainer{
+    /* border:1px solid black; */
+    width: 500px;
+    margin:auto;
+    background: rgb(110, 110, 218);
+    border-radius: 5px;
+}
+.mainContainer label{
+    color: rgb(12, 223, 206);
+    padding: 10px;
+    font-size: 20px;
+}
+.mainContainer input{
+    padding: 5px;
+    width: 170px;
+    border-radius: 5px;
+}
+.mainContainer button{
+    width: 100px;
+    height: 30px;
+    margin-bottom: 15px;
+    outline: none;
+    border: none;
+    border-radius: 5px;
+    font-size: 15px;
+    color: brown;
+}
+.cardConatiner{
+    display: flex;
+    flex-wrap: wrap;
+    /* border: 1px solid red; */
+    margin-left: 150px;
+}

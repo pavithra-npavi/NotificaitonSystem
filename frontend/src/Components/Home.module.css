@@ -1,0 +1,10 @@
+.cardWrapper{
+    border: 1px solid lightgray;
+    margin: 50px;
+    padding: 20px;
+    /* background-color: rgb(155, 191, 223); */
+    font-size: 18px;
+    color: rgb(45, 3, 99);
+    box-shadow: 10px 5px 10px gray;
+    width: 400px;
+}

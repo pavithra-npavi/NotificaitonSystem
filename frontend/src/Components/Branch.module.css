@@ -1,0 +1,42 @@
+.mainContainer{
+    /* border:1px solid black; */
+    width: 500px;
+    margin:auto;
+    background: rgb(110, 110, 218);
+    border-radius: 5px;
+
+}
+.mainContainer form{
+    padding: 20px;
+}
+.mainContainer label{
+    color: rgb(12, 223, 206);
+    padding: 10px;
+    font-size: 20px;
+}
+.mainContainer input{
+    padding: 5px;
+    width: 170px;
+    border-radius: 5px;
+}
+.mainContainer button{
+    width: 100px;
+    height: 30px;
+    margin-bottom: 15px;
+    outline: none;
+    border: none;
+    border-radius: 5px;
+    font-size: 15px;
+    color: brown;
+}
+.cardWrapper{
+    border: 1px solid lightgray;
+    margin: 50px;
+    padding: 20px;
+    /* background-color: rgb(155, 191, 223); */
+    font-size: 18px;
+    color: rgb(45, 3, 99);
+    box-shadow: 10px 5px 10px gray;
+    width:400px;
+    margin: auto;
+}
